@@ -20,9 +20,7 @@
 .menu li a {
     display: block;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 150px;
+    padding: 14px 16px;
     text-decoration: none;
     text-align: center;
 

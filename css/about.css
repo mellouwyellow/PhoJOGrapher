@@ -31,3 +31,14 @@
     color: white;
     font-size: 20px;
 }
+
+p{
+    padding: 50px 50px;
+    text-align: left;
+}
+
+h2{
+    padding: 30px 30px;
+    font-size: 40px;
+    color: plum;
+}
