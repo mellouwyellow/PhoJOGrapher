@@ -1,1 +1,33 @@
-h1
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul{
+    list-style-type: none;
+    background-color: #1A237E;
+    overflow: hidden;
+}
+
+.menu li{
+    float: left;
+}
+
+/*box styling*/
+
+.menu li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+/*change link color on hover*/
+
+.menu li a:hover{
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
